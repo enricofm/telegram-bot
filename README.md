@@ -1,10 +1,10 @@
-### Instalar dependências:  
+### Instalar dependências  
   
 ``
 npm i
 ``  
   
-### Execução do bot:  
+### Execução do bot  
 
 Após atualizar as variáveis de ambiente:  
 ``
